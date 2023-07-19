@@ -15,4 +15,10 @@
     <ProjectReference Include="..\Shared\TicketsGoUcne.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Extensors\" />
+    <Folder Include="Pages\Consultas\" />
+    <Folder Include="Pages\Registros\" />
+  </ItemGroup>
+
 </Project>
