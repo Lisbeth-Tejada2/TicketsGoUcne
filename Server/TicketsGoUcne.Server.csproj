@@ -15,5 +15,11 @@
     <ProjectReference Include="..\Shared\TicketsGoUcne.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="DAL\" />
+    <Folder Include="Data\" />
+  </ItemGroup>
+
 
 </Project>
